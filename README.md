@@ -33,8 +33,3 @@ OpenCV is a widely used, open-source computer vision library that provides effic
 
 ---
 
-If you want, I can also:
-
-* Add **setup instructions**
-* Add **sample output screenshots**
-* Or write a **short project objective** for your GitHub repo
