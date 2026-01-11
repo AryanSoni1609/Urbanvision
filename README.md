@@ -1,6 +1,3 @@
-Here’s a **clean, professional, college-project-friendly README** — same meaning, better tone:
-
----
 
 # **UrbanVision – Vehicle Detection and Counting**
 
@@ -32,4 +29,5 @@ The project is built using:
 OpenCV is a widely used, open-source computer vision library that provides efficient tools for video processing and real-time image analysis, making it well suited for this application.
 
 ---
+
 
